@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trve report of the late good svccesse in Ireland from thence received in London, May 2, 1642.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31190</idno>
+            <idno type="STC">Wing C118</idno>
+            <idno type="STC">ESTC R19652</idno>
+            <idno type="EEBO-CITATION">12607663</idno>
+            <idno type="OCLC">ocm 12607663</idno>
+            <idno type="VID">64274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E146, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trve report of the late good svccesse in Ireland from thence received in London, May 2, 1642.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: R. C.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64274:1" rendition="simple:additions"/>
+            <p>A TRVE REPORT OF THE LATE GOOD SVCCESSE <hi>JN</hi> IRELAND.</p>
+            <p>From thence received in <hi>London, May</hi> 2. 1642.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Matthew Simmons.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64274:2"/>
+            <pb facs="tcp:64274:2"/>
+            <opener>
+               <dateline>
+                  <hi>D<g ref="char:V">Ʋ</g>BLIN</hi>
+                  <date>the 20<hi rend="sup">th</hi> of <hi>Aprill</hi> 1642.</date>
+               </dateline> 
+               <salute>
+                  <hi>GOOD
+SIR;</hi>
+               </salute>
+            </opener>
+            <p>I Wrote you a Letter by M<hi rend="sup">rs</hi> 
+               <hi>James,</hi> a Gentlewoman by way of <hi>London,</hi> and
+incloſed the ſame unto my Brother, acquainting you with the going forth of our Army, and ſome
+other paſſages then hapning, ſince which, here is come to paſſe (bleſſed be God) that
+which is worthily to be taken notice of, concerning the proceedings of our Army; which as yet I
+muſt omit, giving you to underſtand what hap<g ref="char:EOLhyphen"/>ned before, <hi>viZ.</hi> the 15 of
+<hi>Aprill</hi> came in my Lord <hi>Moore</hi> with his Troope, conſiſting of 130 Horſe, and
+brought with him Sir <hi>Theadoras Duffs</hi> ſonne and heire priſoner from <hi>Dundalke,</hi>
+and ſome others, they were found there at the taking thereof.</p>
+            <p>The ſame day came the Rebells and played their prankes a<g ref="char:EOLhyphen"/>bout <hi>Dublin,</hi> they burnt two
+or three Houſes about <hi>Tallowe,</hi> and the ſame night came ſome of them to the end of
+<hi>Newſtreet</hi> in the Suburbs, and doubtleſſe intended to have burnt it, but were
+diſcovered, and put off. The ſixt they came againe, and burnt ſome places about
+<hi>Donnibrook,</hi> within a mile of <hi>Dublin,</hi> and carried away ſome Cattle; the ſame
+night they came with about fiftie foote and ſome horſe, and burnt two Houſes in
+<hi>Kil<g ref="char:EOLhyphen"/>maynham,</hi> and ſet fire in diverſe other Houſes, but running away againe
+ſuddenly, the fire was quenched, but the two Houſes were burnt to the ground, and that is but a
+mile and halfe from S<hi rend="sup">t</hi> 
+               <hi>James</hi> gate in <hi>Dublin.</hi> The night following they burnt
+<hi>Ro<g ref="char:EOLhyphen"/>buck,</hi> a very faire Houſe, built by Alderman <hi>Smith</hi> of this Citie, two miles
+off: but my Lord <hi>Lambert</hi> who was left Governour of our Citie in S<hi rend="sup">t</hi> 
+               <hi>Charles Coots</hi>
+abſence, went forth the ſeventh, and tooke (as is reported) ſome of them that burnt
+<hi>Kilmayn<g ref="char:EOLhyphen"/>ham,</hi> and killed &amp; hanged them, and as many more as they mer withall, not
+ſparing young or old; He did very good ſervice
+<pb n="2" facs="tcp:64274:3"/>
+that day, as is reported, and returned againe before night came. After that came Poſt to Towne
+(from <hi>Dunſhoghan,</hi> a Caſtle where we have a ſlender Garriſon to keep the Caſtle
+foure miles hence,) who reported there were 1000 Rebells there, and that night we had a very
+ſtraight watch kept here, and a ſtrong watch without the Citie, but thankes be to God we heare
+no more of ſuch a great number about <hi>Dublin.</hi> The 14 of <hi>Aprill</hi> came unto our
+Harbour two Troops of Horſe, and 15<hi rend="sup">th</hi> three Troops, and the 16<hi rend="sup">th</hi> two Troops, in all ſeven
+Troops of Horſe, which was a very great rejoycing of our hearts; For wee ſtood in very great
+need of men and money, and here arrived ten thouſand pounds, but God knows what need we have of
+it, &amp; a great deale more; if any thing undoe us, &amp; all our proceedings, it will be the want
+of money, and proviſion, for our proviſion which is but very lit<g ref="char:EOLhyphen"/>tle left; for the Enemy burnes
+on the one ſide, and our Souldi<g ref="char:EOLhyphen"/>ers on the other, that it will make a great ſcarcitie, if wee
+have not a ſpeedy ſupply out of <hi>England.</hi> I doe not thinke that this Citie hath Corne
+and Malt for one moneth for all that are in it, neither doe I know from whence it is poſſible
+to fetch ſo much more from any place of the Kingdom by Land, as the times are, and the next going
+forth of our Army, will be the conſuming (of what is yet left) by fire; and for money, what we
+have lent the Souldiers to pay for their dyet, and what we have lent be<g ref="char:EOLhyphen"/>ſides to pay the
+Souldiers withall, which the Lords Juſtices had from us, we are quite out of money, but we have
+not to buy any thing, if it were to be had for money; for this is every honeſt mans reſolution
+amongſt us, rather to goe halfe clothed, and with a hungry belly, then to have the ſervice of
+God, the ſer<g ref="char:EOLhyphen"/>vice of the King, and the ſervice of the Countrey neglected, but we have a true
+Proverbe, <hi>ultro poſſe non eſt eſſe,</hi> a man can do no more then what lies in him
+to doe. I hope that <hi>England</hi> will not ſee us want, wee have found great and good tokens
+of their affections to the cauſe in hand.</p>
+            <p>And to come to the buſineſſe that I chiefly intended to ac<g ref="char:EOLhyphen"/>quaint you withall, touching
+our Army that went forth, I will
+<pb n="3" facs="tcp:64274:3"/>
+onely touch upon the chiefe heads, according to the trueſt Re<g ref="char:EOLhyphen"/>lation: You may conceive it muſt
+be various, as it is received from many, all men not being eye-witneſſes to every particular
+paſſage; but wherein I finde moſt to agree I ſhall declare unto you, for all doe agree in
+the maine buſines I wrote you before, of our Armies going forth, and comming unto a Caſtle a
+mile from the <hi>Naſe</hi> about twelve miles hence, they beſet the Caſtle, and from it
+ſome of our men were ſlaine, and others wounded; at length our Souldiers (as they have approved
+themſelves ever valiant) made to the Caſtle gate, and came within the Caſtle walls, and
+comming toward the inner gate, were not able to get that open, but undermining the wall, they ſet
+a barrell of pow<g ref="char:EOLhyphen"/>der &amp; match to it, within a ſhort time blew up the Caſtle, there they got
+ſome booty. And from thence they came to the <hi>Naſe,</hi> where they entred without any to
+oppoſe them: from thence went toward <hi>Artly,</hi> which is 27 miles from hence, where the
+Rebells the night before made an aſſault againſt the Towne, and the Townſmen for the
+ſafetie of themſelves were forced to ſet many of the dwelling houſes on fire, and kept
+themſelves in the Caſtles, and thence put off the Enemy with their Muskets; it ſeemes there
+were falſe Brethren amongſt them, (as I thinke there are few Papiſts but are Rebells in
+heart) yet we have ma<g ref="char:EOLhyphen"/>ny of them in our Army, for Sir <hi>Charles Coot</hi> hanged up the
+So<g ref="char:EOLhyphen"/>veraigne of the Towne and ſome others, for their kinde enter<g ref="char:EOLhyphen"/>taining of him; there was
+Collonell <hi>Craford</hi> left with ſix hun<g ref="char:EOLhyphen"/>dred of his Regiment, whiles my Lord of
+<hi>Ormond</hi> &amp; Sir <hi>Charles Coot</hi> went with the reſt of our Army to the Fort of
+<hi>Leaſe</hi> to re<g ref="char:EOLhyphen"/>lieve it, and in their abſence the Rebels thinking to ſet on Colo<g ref="char:EOLhyphen"/>nell
+<hi>Crafford,</hi> aſſayed to repaire a Bridge ſome three miles from the Towne, which the
+Townſmen had broken downe, and be<g ref="char:EOLhyphen"/>cauſe they could not get over, they aſſayed to goe over
+by Cott (which is a kinde of a Boate) but were valiantly put off by our Souldiers: from the Fort of
+<hi>Leaſe</hi> ſome of our Souldiers went to <hi>Mountrath,</hi> and by the way they met with
+ſeverall Compa<g ref="char:EOLhyphen"/>nies of the Rebells, and were once in great danger of looſing of
+<pb n="4" facs="tcp:64274:4"/>
+men, but thanks be to God they loſt very few, onely ſome hor<g ref="char:EOLhyphen"/>ſes, for the Rebells have made
+themſelves ſtrong places therea<g ref="char:EOLhyphen"/>bouts, in Bogges, where our Horſe cannot come neare them.
+From thence they returned after ſome few dayes, (the ſooner becauſe our Army wanted victuals)
+and came againe to <hi>Artly,</hi> leaving men and ammunition at the Fort, and going from
+<hi>Artly</hi> they left a Garriſon of 300 men there, (beſides what were there before) and came
+homeward, and about a mile from thence as they marched, they perceived a very great Army of foot
+and horſe of the Rebells within two miles of our Army, and as our Army and Carriage marcht along,
+ſo did they the ſame way, and were at length neerer, ſo that the one Army and the other
+marcht together about foure miles, there being a little valley betweene them: Each ſtriving for
+one paſſage, which had they taken it, it would have much endangered our Army, but before they
+or we came together, there was a deſire of each ſide to have a Battell, in ſome convenient
+field; and within a mile and halfe from M<hi rend="sup">r</hi> 
+               <hi>Pearce Fits Gerralds</hi> Caſtle called
+<hi>Balleſhanon,</hi> the Armies joyned Battell, the Enemies had, as ſome affirme fiftie-two
+Colours, ſome fiftie-five Colours; it was related by one of them that were taken, that they had
+ſixty-two hundred foot, and ſeven Troops of Horſe, but for their Horſe I beleeve they were
+not all Souldiers, but did all they could to make a ſhew, whether they were Souldiers or ſuch
+as followed the Campe. And for Commanders they had in chiefe my Lord <hi>Mountgar<g ref="char:EOLhyphen"/>ret,</hi> my Lord
+<hi>Dunboyne,</hi> my Lord of <hi>Icaren,</hi> Lord <hi>Roagnald,</hi> and ſome other Lords, and
+beſides my Lord of <hi>Ormonds</hi> Brother, Collonell <hi>Bourne,</hi> and many more Commanders
+of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Wicklowe,</hi> but I underſtand that their Army was not there which
+co<g ref="char:cmbAbbrStroke">̄</g>ſiſts of 8000 more which were to come the next day, as themſelves reported, but I know it
+not, and hardly beleeve that they have ſo many more in one Army, but our Army ex<g ref="char:EOLhyphen"/>pected a
+ſecond Battle. Their Army being drawne up into ſeve<g ref="char:EOLhyphen"/>rall bodies, very well ordered, and came at
+firſt valiantly on, and having the hill, the wind, &amp; ditches to intrench themſelves,
+<pb n="5" facs="tcp:64274:4"/>
+they gave a very fierce onſet, and Collonell <hi>Craffords</hi> Regiment gave them battle; it was
+not needfull to command our Souldi<g ref="char:EOLhyphen"/>ers to goe on, they were forward enough of themſelves: upon
+the onſet our Ordnance went off, but hurt not a man of them, for I beleeve the Gunners were much
+miſtaken in the ground, however it ſtruck ſome terrour, and the fierceneſſe of our mens
+comming on, and the multitude of the ſhot that our men made upon them, made them within halfe an
+houre to retire to the Bogge, which was nigh them, where our Horſe ventured as far after them as
+they could; there were ſlaine of them on the Hill and in the Bogge above 600 men, our Souldiers
+recovered all their Carriage from them loaden with proviſion, &amp; ſome pow<g ref="char:EOLhyphen"/>der, there was
+taken from them that day ſome 8 baggs of pow<g ref="char:EOLhyphen"/>der, each containing about an Engliſh peck one
+with another, but little els of any conſequence, onely 5 Colours and a great number of Pikes, and
+ſome Muſquets, and Fowling peices, but what number I cannot learne, but I underſtand they had
+above 1000 Musquets &amp; Fowling peices in their Army; and in view<g ref="char:EOLhyphen"/>ing of the dead bodies they
+took three heads and brought them home, which are thought to be Collonell <hi>Cavenagh</hi> his
+head, he is a neere kinſman to Sir <hi>Morgan Cavenagh</hi> of the Countie of <hi>Wicklowe,</hi>
+Sergeant Major <hi>Bournes</hi> head, and the head of one <hi>Butler,</hi> thought to be the
+ſonne of my Lord of <hi>Icarin.</hi> This bat<g ref="char:EOLhyphen"/>tle was fought on Friday laſt, being the 15<hi rend="sup">th</hi>
+of <hi>Aprill,</hi> about 3 of the Clock in the afternoone the battle begun, and it was two houres
+after untill our Horſmen returned from purſuing the Re<g ref="char:EOLhyphen"/>bells: On Saturday the 16 came our Army
+backe to the <hi>Naſe</hi> in ſafetie, with loſſe of a very few men. In the great Battle
+wee loſt onely 3 men, but ſome run away to the Rebells, of which I heare there were 8, three
+troopers and 5 footmen. At the <hi>Naſe</hi> Sir <hi>Charles Coot</hi> yet remaines with his own
+Regiment, and ſome of our <hi>Engliſh,</hi> and 3 pieces of Ordnance, and on Sunday the 21 in
+the afternoone came the reſt of our Army home in great tri<g ref="char:EOLhyphen"/>umph &amp; joy, for the good mercy of
+God toward them and us. Wee cannot heare from <hi>Mounſter</hi> further then our Army went
+<pb n="6" facs="tcp:64274:5"/>
+we can get no intelligence, neither did we heare from our Army all the while they were out, untill
+the Saturday they came next day, onely once when our men had taken the Caſtle by the
+<hi>Naſe,</hi> ſome of our men were comming home wounded and were met by the Rebells, and
+ſlaine. But from <hi>Carrickfargus</hi> (as in the vulgar name) <hi>Knockfargus,</hi> we
+underſtand that on Sunday the 3 <hi>Aprill</hi> my Lord <hi>Mountro</hi> with 2500 Souldiers were
+land<g ref="char:EOLhyphen"/>ed, and the eighth 1000 more <hi>Scots men</hi> before my Lords com<g ref="char:EOLhyphen"/>ming thither, it is
+uncredible how cruell the <hi>Scots</hi> were there a<g ref="char:EOLhyphen"/>gainſt the <hi>Proteſtants,</hi> they
+regarded neither <hi>Engliſh</hi> nor <hi>Iriſh,</hi> nor the Miniſters themſelves, but
+upon my Lords comming o<g ref="char:EOLhyphen"/>ver they are fled that did the wrong, I pray God grant us unitie amongſt
+our ſelves, and then I doubt not but the enemy will ſoone be brought under, but not untill we
+have men enough to lay Garriſons abroad, that we have them on every ſide, what exceſſive
+expence would it have, to preſerve ſo much Corne as is ſowen in the Countrey, might it fall
+to our Souldiers lot to reape the ſame, what charges and adventure by Sea, what carri<g ref="char:EOLhyphen"/>age to and
+fro in the Countrey, it will be an exceſſive charge to the King to carry all proviſion hence
+three or foure ſcore miles into the Countrey. In briefe, a little expedition now will gaine
+profit much hereafter, and ſave us from all feares of forraigne Invaſion. We heare of great
+matters in <hi>England,</hi> great ſumme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+preſented on the Rebels Land, we ſee it onely printed in a piece of payer as yet, I hope to
+have it in very deed. In the meane time, we want it, and we are afraid we ſhall more want it ere
+i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come, and proviſion of Corne much more, for
+winde and tyde waits no mans leaſure. I have ſeene a Declaration ſet forth by his Majeſtie
+touching divers great matters, at which I greatly rejoyce, hoping that there will be a renewed
+affection between his Majeſtie and the people, according to the old Proverbe, <hi>The falling out
+of Lovers, is the renewing of love,</hi> which I pray God wee may truly and heartily pray for
+continually. Thus humbly craving leave, I reſt</p>
+            <closer>
+               <signed>Your dutifull Sonne till death <hi>R. C.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
